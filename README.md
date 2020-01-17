@@ -1,4 +1,4 @@
-# Analyzing the impact of location on housing prices
+# Analyzing the Impact of Location on Housing Prices
 
 ## Description
 The big question that drove my interest is: Can we predict a house price based on its area? In other words, I am interested in knowing how helpful is the area of the house in predicting the house price? Hence, I tried to tackle the question by exploring whether there is a correlation between the houses prices and areas. I also created a linear regression model to examine how much variation of houses prices can be predicted based on variation in houses area.
